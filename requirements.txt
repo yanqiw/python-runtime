@@ -1,2 +1,5 @@
 pyquery
 selenium
+django
+mysql-python
+httpie
