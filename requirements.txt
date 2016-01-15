@@ -3,3 +3,4 @@ selenium
 django
 mysql-python
 httpie
+environ
